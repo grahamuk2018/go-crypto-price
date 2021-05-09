@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"https://github.com/grahamuk2018/go-crypto-price/client"
+	"github.com/grahamuk2018/go-crypto-price/"
 )
 
 func main() {
